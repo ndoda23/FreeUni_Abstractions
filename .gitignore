@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+.vscode/
+
+# Build
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.log
+*.tlog
+*.idb
+*.ipch
+*.sdf
+*.opensdf
+*.VC.db
+
+# Other
+*.zip
